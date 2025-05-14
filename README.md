@@ -1,0 +1,1 @@
+Created an insightful dashboard for 2015 sales by analyzing the growth trends of 4 product categories by using pivot table. Incorporated clustered column charts, bar charts, control combo box & data analysis add-in to accomplished top 5 products.
